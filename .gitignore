@@ -1,0 +1,19 @@
+# Environment variables (Secrets)
+.env
+.env.local
+.env.production
+.env.development
+
+# Node modules
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Folder/Files
+src/
+test-peachify.js
+test-megaembed.js
+test-fshd.js
+build.js

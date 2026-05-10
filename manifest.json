@@ -1,0 +1,66 @@
+{
+  "name": "saimuel repo",
+  "version": "1.0.0",
+  "scrapers": [
+    {
+      "id": "fshd",
+      "name": "FSHD",
+      "description": "FSHD - API",
+      "version": "1.0.0",
+      "author": "saimuel",
+      "supportedTypes": [
+        "tv"
+      ],
+      "filename": "providers/fshd.js",
+      "enabled": true,
+      "formats": [
+        "m3u8"
+      ],
+      "logo": "https://cutt.ly/etCmaOzU",
+      "contentLanguage": [
+        "pt"
+      ]
+    },
+    {
+      "id": "megaembed",
+      "name": "MegaEmbed",
+      "description": "MegaEmbed - API",
+      "version": "1.0.0",
+      "author": "saimuel",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/megaembed.js",
+      "enabled": true,
+      "formats": [
+        "m3u8"
+      ],
+      "logo": "https://cutt.ly/ntCma3C5",
+      "contentLanguage": [
+        "pt"
+      ]
+    },
+    {
+      "id": "peachify",
+      "name": "Peachify",
+      "description": "Peachify - API",
+      "version": "1.0.0",
+      "author": "saimuel",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/peachify.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://cutt.ly/MtCmswIl",
+      "contentLanguage": [
+        "pt"
+      ]
+    }
+  ]
+}
