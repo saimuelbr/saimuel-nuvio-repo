@@ -52,7 +52,7 @@
         "tv"
       ],
       "filename": "providers/peachify.js",
-      "enabled": false,
+      "enabled": true,
       "formats": [
         "m3u8",
         "mp4"
