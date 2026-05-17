@@ -16,5 +16,6 @@ src/
 test-peachify.js
 test-megaembed.js
 test-fshd.js
+test-primevicio.js
 build.js
 token.txt
