@@ -1,5 +1,5 @@
 {
-  "name": "saimuel repo",
+  "name": "saimuel-nuvio-repo",
   "version": "1.0.0",
   "scrapers": [
     {
@@ -8,38 +8,23 @@
       "description": "FSHD - API | 1080p",
       "version": "1.0.0",
       "author": "saimuel",
-      "supportedTypes": [
-        "tv"
-      ],
+      "supportedTypes": ["movie", "tv"],
       "filename": "providers/fshd.js",
       "enabled": true,
-      "formats": [
-        "m3u8"
-      ],
-      "logo": "https://cutt.ly/etCmaOzU",
-      "contentLanguage": [
-        "pt"
-      ]
+      "formats": ["m3u8"],
+      "contentLanguage": ["pt"]
     },
     {
       "id": "megaembed",
       "name": "MegaEmbed",
-      "description": "MegaEmbed - API | 1080p/720p",
+      "description": "MegaEmbed - API| 1080p/720p",
       "version": "1.0.0",
       "author": "saimuel",
-      "supportedTypes": [
-        "movie",
-        "tv"
-      ],
+      "supportedTypes": ["movie", "tv"],
       "filename": "providers/megaembed.js",
       "enabled": true,
-      "formats": [
-        "m3u8"
-      ],
-      "logo": "https://cutt.ly/ntCma3C5",
-      "contentLanguage": [
-        "pt"
-      ]
+      "formats": ["m3u8"],
+      "contentLanguage": ["pt"]
     },
     {
       "id": "peachify",
@@ -47,20 +32,11 @@
       "description": "Peachify - API | 1080p",
       "version": "1.0.0",
       "author": "saimuel",
-      "supportedTypes": [
-        "movie",
-        "tv"
-      ],
+      "supportedTypes": ["movie", "tv"],
       "filename": "providers/peachify.js",
       "enabled": true,
-      "formats": [
-        "m3u8",
-        "mp4"
-      ],
-      "logo": "https://cutt.ly/MtCmswIl",
-      "contentLanguage": [
-        "pt"
-      ]
+      "formats": ["m3u8"],
+      "contentLanguage": ["pt"]
     },
     {
       "id": "primevicio",
@@ -68,19 +44,11 @@
       "description": "PrimeVicio - API | 1080p",
       "version": "1.0.0",
       "author": "saimuel",
-      "supportedTypes": [
-        "movie",
-        "tv"
-      ],
+      "supportedTypes": ["movie", "tv"],
       "filename": "providers/primevicio.js",
       "enabled": true,
-      "formats": [
-        "mp4"
-      ],
-      "logo": "https://cutt.ly/DtBpFJ6D",
-      "contentLanguage": [
-        "pt"
-      ]
+      "formats": ["m3u8"],
+      "contentLanguage": ["pt"]
     }
   ]
 }
