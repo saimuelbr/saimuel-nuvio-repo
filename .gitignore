@@ -3,7 +3,7 @@
 .env.local
 .env.production
 .env.development
-.roo
+.roo/
 
 # Node modules
 node_modules/
