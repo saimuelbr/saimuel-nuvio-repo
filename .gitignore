@@ -18,6 +18,7 @@ DOCUMENTATION.md
 test-peachify.js
 test-megaembed.js
 test-fshd.js
-test-primevicio.js
+test-redeflix.js
+test-pomfy.js
 build.js
 token.txt

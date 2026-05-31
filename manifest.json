@@ -39,13 +39,13 @@
       "contentLanguage": ["pt"]
     },
     {
-      "id": "primevicio",
-      "name": "PrimeVicio",
-      "description": "PrimeVicio - API | 1080p",
+      "id": "redeflix",
+      "name": "RedeFlix",
+      "description": "RedeFlix - API | 1080p",
       "version": "1.0.0",
       "author": "saimuel",
       "supportedTypes": ["movie", "tv"],
-      "filename": "providers/primevicio.js",
+      "filename": "providers/redeflix.js",
       "enabled": true,
       "formats": ["m3u8"],
       "contentLanguage": ["pt"]
