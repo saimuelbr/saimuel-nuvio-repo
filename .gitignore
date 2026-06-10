@@ -20,5 +20,5 @@ test-megaembed.js
 test-fshd.js
 test-redeflix.js
 test-pomfy.js
-build.js
 token.txt
+build.js
